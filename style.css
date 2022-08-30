@@ -1,0 +1,25 @@
+html {
+    background-color: #6788a7;
+  }
+  
+  h1{
+      text-align: center;
+      font-style: italic;
+      color: aliceblue;
+  }
+  
+  td, th {
+      padding: .7em;
+      margin: 0;
+      border: 1px solid rgb(20, 1, 1);
+      text-align: center;
+    }
+    
+    th{
+      background-color: #EEE;
+    }
+  
+    td{
+      background-color: #EEE;
+    }
+
